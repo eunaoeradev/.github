@@ -3,18 +3,18 @@
 I’m **Luis Felipe Brum**, a Backend Developer with expertise in **information security** and **integration architecture**.
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=atalhox&label=Profile%20views&color=0e75b6&style=flat" alt="atalhox" />
+  <img src="https://komarev.com/ghpvc/?username=eunaoeradev&label=Profile%20views&color=0e75b6&style=flat" alt="eunaoeradev" />
 </p>
 
 ## 🚀 About Me
 
 - 🌱 Currently coding in **Java with Spring Boot**  
-- 👨‍💻 All my projects are available here: [atalhox](https://github.com/atalhox)  
+- 👨‍💻 All my projects are available here: [eunaoeradev](https://github.com/eunaoeradev)  
 - 💡 Open to collaboration and sharing ideas.  
 
 ## 🤝 How to Collaborate
 
-If you'd like to collaborate, check out my enhancement request process: [click here](https://gist.github.com/atalhox/adb28140d9c08ce4d2b3ea6ddbe21c63).
+If you'd like to collaborate, check out my enhancement request process: [click here](https://gist.github.com/eunaoeradev/adb28140d9c08ce4d2b3ea6ddbe21c63).
 
 ## 🛠️ My Skills and Tech Stack
 
@@ -77,15 +77,15 @@ Here’s an updated version of your **Skills and Tech Stack** section, organized
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=atalhox&show_icons=true&locale=en" alt="atalhox stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eunaoeradev&show_icons=true&locale=en" alt="eunaoeradev stats" />
 
   <!-- GitHub Streak Stats -->
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=atalhox" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=eunaoeradev" alt="GitHub Streak" />
 
   <!-- Top Languages -->
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atalhox&show_icons=true&locale=en&layout=compact" alt="atalhox top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eunaoeradev&show_icons=true&locale=en&layout=compact" alt="eunaoeradev top languages" />
 </div>
 
 ## 📬 Contact Me
