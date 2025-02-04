@@ -14,11 +14,7 @@ I’m **Luis Felipe Brum**, a Backend Developer with expertise in **information 
 
 ## 🤝 How to Collaborate
 
-If you'd like to collaborate, check out my enhancement request process: [click here](https://gist.github.com/eunaoeradev/adb28140d9c08ce4d2b3ea6ddbe21c63).
-
-## 🛠️ My Skills and Tech Stack
-
-Here’s an updated version of your **Skills and Tech Stack** section, organized by main categories such as Gateway, Languages, Databases, etc.:
+If you'd like to collaborate, check out my enhancement request process: [click here](https://gist.github.com/atalhox/adb28140d9c08ce4d2b3ea6ddbe21c63).
 
 ## 🛠️ My Skills and Tech Stack
 
@@ -64,34 +60,19 @@ Here’s an updated version of your **Skills and Tech Stack** section, organized
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/></a>
 </p>
 
-### 🐧 Operating Systems
-<p align="left"> 
-    <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a> 
-    <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows" width="40" height="40"/></a>
+### 🛠️ Infrastructure as Code
+<p align="left">
+  <a href="https://www.terraform.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash Scripting" width="40" height="40"/></a>
+  <a href="https://www.gnu.org/software/make/" target="_blank"><img src="https://www.svgrepo.com/show/373819/makefile.svg" alt="Makefile" width="40" height="40"/></a>
 </p>
 
-## 📊 Analytics
-
-<div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=eunaoeradev&show_icons=true&locale=en" alt="eunaoeradev stats" />
-
-  <!-- GitHub Streak Stats -->
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=eunaoeradev" alt="GitHub Streak" />
-
-  <!-- Top Languages -->
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eunaoeradev&show_icons=true&locale=en&layout=compact" alt="eunaoeradev top languages" />
-</div>
-
-## 📬 Contact Me
-
+## 💊 Contact Me
 <a href="https://www.felipebrum.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/53919226" alt="Website" width="40"></a>
 <a href="https://br.linkedin.com/in/luisfelipebrum" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40"></a>
 <a href="https://www.instagram.com/eunaoeradev" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40"></a>
 <a href="https://www.tiktok.com/@eunaoeradev" target="_blank"><img src="https://i.pinimg.com/originals/22/0a/62/220a624ba2fa59ddda4db763f474f50f.jpg" alt="TikTok" width="40"></a>
 <a href="https://twitter.com/eunaoeradev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40"></a>
+
